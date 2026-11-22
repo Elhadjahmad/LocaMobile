@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android 15 (API 35) dessine l'application sous la barre d'état par défaut (« edge-to-edge »).
+         On désactive ce comportement pour que le contenu commence sous la barre de titre. -->
+    <style name="Theme.LocaMobile" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primaire</item>
+        <item name="colorPrimaryDark">@color/primaire</item>
+        <item name="colorAccent">@color/primaire</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+    </style>
+</resources>

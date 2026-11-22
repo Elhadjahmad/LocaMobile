@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaMobile</string>
+    <string name="titre_liste">Logements disponibles</string>
+    <string name="titre_detail">Fiche du logement</string>
+    <string name="hint_ville">Ville (vide = toutes)</string>
+    <string name="chercher">Chercher</string>
+    <string name="chargement">Chargement…</string>
+    <string name="connexion">Connexion</string>
+    <string name="titre_connexion">Se connecter</string>
+    <string name="hint_courriel">Courriel</string>
+    <string name="hint_mot_de_passe">Mot de passe</string>
+    <string name="se_connecter">Se connecter</string>
+</resources>
